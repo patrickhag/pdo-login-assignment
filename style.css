@@ -1,0 +1,11 @@
+.toggle-password {
+  position: relative;
+  top: -25px;
+  right: 10px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.password-visible {
+  color: #333;
+}
